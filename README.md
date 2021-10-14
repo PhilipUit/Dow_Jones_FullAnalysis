@@ -1,4 +1,4 @@
-# Dow_Jones_FullAnalysis
+# Dow_Jones_Index_Full_Analysis
 #### dataset https://archive.ics.uci.edu/ml/datasets/Dow+Jones+Index#
 #### lab instructions: 
 "This week, let's do a "full" analysis project.
