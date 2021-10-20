@@ -53,7 +53,7 @@ The models appeared relatively accurate in comparison to the variables. Although
 To improve, it would be necessary to have significantly more data. This was not a huge dataset. To improve for more significant results, we could have had much more data and also worked on treating missing values as outlier values. We could possibly have more selection, feature selection, multiple algorithms, algorithm tuning (random forest), esemble methods (bagging boosting), cross validation, and potentially just tweaked the algorithm used better. https://www.analyticsvidhya.com/blog/2015/12/improve-machine-learning-results/
 
 
-#### Lessons learned.
+#### Lessons learned:
 
 In conclusion, it was fun to perform this type of analysis. I learned that if I had more data, I would be able to improve my results in terms of greater correlation and significance. I learned that financial varibales in this dataset have significance and correlation to another. I learned that: Volume is correlated to a significant amount of variabels(but of course in various degrees), Percent_change_price is relately correlated to volume as well, Next weeks price is directly related to volume, (obviously), Percent_change_next_weeks_price is moederately related to volume. There were many lessons learned, and I hope to take them forward to better my analysis skills in the future!
 ### References:
