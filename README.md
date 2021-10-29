@@ -1,7 +1,7 @@
 # Dow_Jones_Index_Full_Analysis
 #### dataset https://archive.ics.uci.edu/ml/datasets/Dow+Jones+Index#
 #### lab instructions: 
-"This week, let's do a "full" analysis project.
+Let's do a "full" analysis project.
 
 Find an "interesting" data set to work with. UCI Machine Learning Archive is a good place to start.
 After reading the data set's description and looking at the data, propose an "Analysis Question" -- In other words, what is all of your work trying to prove?
@@ -34,7 +34,7 @@ Training data vs Test data:
 In (Brown, Pelosi & Dirska, 2013) we used quarter 1 (Jan-Mar) data for training and quarter 2 (Apr-Jun) data for testing.
 
 Interesting data points:
-If you use quarter 2 data for testing, you will notice something interesting in the week ending 5/27/2011 every Dow Jones Index stock lost money"
+If you use quarter 2 data for testing, you will notice something interesting in the week ending 5/27/2011 every Dow Jones Index stock lost money
 ## "Analysis_Question"-- In other words, what is all of your work trying to prove?
 The purpose of this lab is to use models to look for relationships between observed features and their outcomes. Based on the content of the dataset, it would be intersting to see if there is any sort of correlation between some cruicial variables in this dataset. At first glance, this is a pretty basic dataset, but after running the dataset through some of the methods we will demonstrate, we will look to find unique observations in the dataset. We will look to aggregate some information by unique stock, look to find correlation in the dataset that could lead to uniique understanding or deeper analysis, and also we will hope to uncover information that could possibly lead to future understandings/correlations by training data and test sets to look for unique inear regression models. Potentially we will discover something groundbreaking and will lead to learning events from the past that can elude to future events occuring? We will see! We will primarily look at volume and it's affect on other variables. 
 ## Final analysis of the results:
