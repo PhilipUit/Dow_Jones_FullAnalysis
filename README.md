@@ -9,17 +9,16 @@ After reading the data set's description and looking at the data, propose an "An
 - Missing values
 - Data types
 - String manipulation
-- Wide vs. long format
-etc.
-Do feature analysis using Seaborn and Matplotlib to determine which ones are important.
-Remember to explain your steps. Why are you doing the graph and what did you learn from it?
-Use a linear model from this weeks' reading. Be sure to split the data into train and test sets.
-Perform checks on the model's output of the test data. Evaluate accuracy of the model.
-Final analysis of the results:
-What was the answer to your Analysis Question?
-How accurate was the model?
-Thoughts to improve accuracy?
-Lessons learned.
+- Wide vs. long format etc.
+- Do feature analysis using Seaborn and Matplotlib to determine which ones are important.
+- Remember to explain your steps. Why are you doing the graph and what did you learn from it?
+- Use a linear model from this weeks' reading. Be sure to split the data into train and test sets.
+- Perform checks on the model's output of the test data. Evaluate accuracy of the model.
+#### Final analysis of the results:
+- What was the answer to your Analysis Question?
+- How accurate was the model?
+- Thoughts to improve accuracy?
+- Lessons learned.
 Deliverable will be the Jupyter notebook and data set."
 ### About the Dataset:
 I found this dataset to be intersting personally, as I am naturally curious about market finance, and this was the most detailed dataset about stocks specifically. The data is from: Dr. Michael Brown, michael.brown '@' umuc.edu, University of Maryland University College.
