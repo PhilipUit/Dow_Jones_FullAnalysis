@@ -5,11 +5,11 @@
 
 Find an "interesting" data set to work with. UCI Machine Learning Archive is a good place to start.
 After reading the data set's description and looking at the data, propose an "Analysis Question" -- In other words, what is all of your work trying to prove?
-Clean the data as we have been
-Missing values
-Data types
-String manipulation
-Wide vs. long format
+- Clean the data as we have been
+- Missing values
+- Data types
+- String manipulation
+- Wide vs. long format
 etc.
 Do feature analysis using Seaborn and Matplotlib to determine which ones are important.
 Remember to explain your steps. Why are you doing the graph and what did you learn from it?
