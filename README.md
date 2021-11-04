@@ -4,7 +4,8 @@
 Let's do a "full" analysis project.
 
 Find an "interesting" data set to work with. UCI Machine Learning Archive is a good place to start.
-After reading the data set's description and looking at the data, propose an "Analysis Question" -- In other words, what is all of your work trying to prove?
+After reading the data set's description and looking at the data, propose an "Analysis Question" -- In other words, 
+## What is all of your work trying to prove?
 - Clean the data as we have been
 - Missing values
 - Data types
